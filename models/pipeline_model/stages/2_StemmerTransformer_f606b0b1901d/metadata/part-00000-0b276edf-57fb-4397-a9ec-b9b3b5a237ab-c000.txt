@@ -1,0 +1,1 @@
+{"class":"__main__.StemmerTransformer","timestamp":1764077074563,"sparkVersion":"4.0.1","uid":"StemmerTransformer_f606b0b1901d","paramMap":{"inputCol":"filtered_tokens","outputCol":"stemmed"},"defaultParamMap":{"inputCol":"filtered_tokens","outputCol":"stemmed"}}
